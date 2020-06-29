@@ -1,4 +1,4 @@
-# Shape Statistics Discussion Group
+# Nonlinear Shape Statistics Discussion Group
 
 Upcoming Meetings
 -----------------
