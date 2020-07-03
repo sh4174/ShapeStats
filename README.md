@@ -5,7 +5,7 @@ Upcoming Meetings
 
 | Date                   | Presenter                                   | Title                                                               |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|
-| 07/17/2020 (Tentative) | Prof. Stephan Huckeman (Univ. of Göttingen) | TBD                                                                 |
+| 07/17/2020             | Prof. Stephan Huckeman (Univ. of Göttingen) | TBD                                                                 |
 | 08/07/2020 (Tentative) | Prof. Stefan Sommer (Univ. of Copenhagen)   | Horizontal Flows and Manifold Statistics in Geometric Deep Learning |
 
 
