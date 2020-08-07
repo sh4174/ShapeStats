@@ -5,7 +5,7 @@ Upcoming Meetings
 
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
-| 08/21/202              | Prof. Stephan Huckeman (Univ. of Göttingen) | TBD                                                                 |        |
+| 08/21/2020             | Prof. Stephan Huckeman (Univ. of Göttingen) | TBD                                                                 |        |
 
 
 Previous Meetings
