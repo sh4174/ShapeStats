@@ -5,7 +5,7 @@ Upcoming Meetings
 
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
-| 08/21/2020             | Prof. Stephan Huckeman (Univ. of Göttingen) | TBD                                                                 |        |
+| 08/21/2020             | Johannes Wieditz (Huckeman Group, Univ. of Göttingen) | Necessary and random minutiae in fingerprints                       |        |
 
 
 Previous Meetings
