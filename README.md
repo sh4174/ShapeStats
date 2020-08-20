@@ -5,7 +5,7 @@ Upcoming Meetings
 
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
-| 08/21/2020             | Johannes Wieditz (Huckeman Group, Univ. of Göttingen) | Necessary and random minutiae in fingerprints                       |        |
+| 08/21/2020             | Johannes Wieditz (Huckeman Group, Univ. of Göttingen) | Necessary and random minutiae in fingerprints                       | [Slides](Talk_21_08_2020_Wieditz.pdf)        |
 
 
 Previous Meetings
