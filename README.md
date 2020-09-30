@@ -6,7 +6,7 @@ Upcoming Meetings
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
 | 10/02/2020             | Free Discussion |                        |         |
-| 10/16/2020             | Eduardo García Portugués (Carlos III University of Madrid) | Projection-based uniformity tests on the hypersphere  |       |
+| 10/16/2020             | Prof. Eduardo García Portugués (Carlos III University of Madrid) | Projection-based uniformity tests on the hypersphere  |       |
 
 
 Previous Meetings
