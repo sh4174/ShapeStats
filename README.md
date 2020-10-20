@@ -9,6 +9,7 @@ Upcoming Meetings
 | 11/13/2020             | TBD  | MICCAI 2020: Shape MI Workshop Keynote/Best Paper Presentation  |       |
 | 11/20/2020             | TBD  | MICCAI 2020: Shape MI Workshop Keynote/Best Paper Presentation  |       |
 | TBD             | TBD  | MICCAI 2020: Shape MI Workshop Keynote/Best Paper Presentation  |       |
+| TBD             | TBD  | TBD  |       |
 
 
 Previous Meetings
