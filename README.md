@@ -8,7 +8,7 @@ Upcoming Meetings
 | 10/30/2020             | Prof. Ross Whitaker (Univ. of Utah)  | Data-Driven Shape Analysis: Applications and Future | [Abstract](https://shapemi.github.io/keynotes/) [Video](https://drive.google.com/file/d/1I04lWcXqUB37fgBT4z_3nztpwEtsbCUQ/view)      |
 | 11/13/2020             | Martin Hanik (Zuse Institute Berlin)  | MICCAI 2020: ShapeMI Workshop Best Paper Presentation  |       |
 | 11/20/2020             | TBD  | MICCAI 2020: Shape MI Workshop Keynote/Best Paper Presentation  | [Abstract](https://shapemi.github.io/keynotes/)  |
-| 12/04/2020             | Prof. Stefan Sommer (Univ. of Copenhagen) | Stochastic Shape analysis and Probabilistic Geometric Statistics  | [Abstract](https://shapemi.github.io/keynotes/)  |
+| 12/04/2020             | Prof. Stefan Sommer (Univ. of Copenhagen) | Stochastic Shape analysis and Probabilistic Geometric Statistics  | [Abstract](https://shapemi.github.io/keynotes/) [Video](https://drive.google.com/file/d/1t08-Pl0vAKsjw1M86r-tGdbo_KMhTjju/view) |
 | TBD             | TBD  | TBD  |       |
 
 
