@@ -5,15 +5,17 @@ Upcoming Meetings
 
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
-| 12/04/2020             | Martin Hanik (Zuse Institute Berlin)  | Bi-invariant Two-sample Tests in Lie Groups for Shape Analysis - Follow-Up Discussion  | [arXiv](https://arxiv.org/abs/2008.12195)     |
+| 01/04/2021            | Free Discussion |      |
 | TBD            | Prof. Aasa Feragen (Technical Univ. of Denmark) | Uncertainty quantification in non-Euclidean domains - Follow-Up Discussion | [Abstract](https://shapemi.github.io/keynotes/) [Video](https://drive.google.com/file/d/1sv5XWvtUS_6FIivo6gOwz_xy6ui57UmL/view)  |
-| TBD on January         | Prof. Stefan Sommer (Univ. of Copenhagen) | Stochastic Shape analysis and Probabilistic Geometric Statistics  | [Abstract](https://shapemi.github.io/keynotes/) [Video](https://drive.google.com/file/d/1t08-Pl0vAKsjw1M86r-tGdbo_KMhTjju/view) |
+| TBD         | Prof. Stefan Sommer (Univ. of Copenhagen) | Stochastic Shape analysis and Probabilistic Geometric Statistics  | [Abstract](https://shapemi.github.io/keynotes/) [Video](https://drive.google.com/file/d/1t08-Pl0vAKsjw1M86r-tGdbo_KMhTjju/view) |
+| TBD         | Benjamin Eltzner (Univ. of Göttingen) | A Uniqueness Test for M-Estimators | |
 
 
 Previous Meetings
 -----------------
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
+| 12/04/2020             | Martin Hanik (Zuse Institute Berlin)  | Bi-invariant Two-sample Tests in Lie Groups for Shape Analysis - Follow-Up Discussion  | [arXiv](https://arxiv.org/abs/2008.12195)     |
 | 11/20/2020             | Prof. Aasa Feragen (Technical Univ. of Denmark) | Uncertainty quantification in non-Euclidean domains | [Abstract](https://shapemi.github.io/keynotes/) [Video](https://drive.google.com/file/d/1sv5XWvtUS_6FIivo6gOwz_xy6ui57UmL/view)  |
 | 11/13/2020             | Martin Hanik (Zuse Institute Berlin)  | Bi-invariant Two-sample Tests in Lie Groups for Shape Analysis  | [arXiv](https://arxiv.org/abs/2008.12195)     |
 | 10/30/2020             | Prof. Ross Whitaker (Univ. of Utah)  | Data-Driven Shape Analysis: Applications and Future | [Abstract](https://shapemi.github.io/keynotes/) [Video](https://drive.google.com/file/d/1I04lWcXqUB37fgBT4z_3nztpwEtsbCUQ/view)      |
