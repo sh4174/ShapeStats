@@ -28,4 +28,4 @@ Previous Meetings
 
 
 
-Please contact shong20@mgh.harvard.edu if you would like to present your works at upcoming meetings or add members to our group discussion. 
+Please contact shong20@mgh.harvard.edu if you would like to present your research or add members to our group discussion. 
