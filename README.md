@@ -5,14 +5,15 @@ Upcoming Meetings
 
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
-| 02/05/2021            | Prof. Aasa Feragen (Technical Univ. of Denmark) | Uncertainty quantification in non-Euclidean domains - Follow-Up Discussion | [Abstract](https://shapemi.github.io/keynotes/) [Video](https://drive.google.com/file/d/1sv5XWvtUS_6FIivo6gOwz_xy6ui57UmL/view)  |
-| 02/19/2021         | Benjamin Eltzner (Univ. of Göttingen) | A Uniqueness Test for M-Estimators | Short follow-up discussion with Prof. Stefan Sommer on his Jan. 22nd talk will take place before this presentation. |
+| 02/19/2021            | Prof. Aasa Feragen (Technical Univ. of Denmark) // Prof. Stefan Sommer (Univ. of Copenhagen) | Follow-Up Discussion | Talks 02/05/2021 and 01/22/2021  |
+| (TBD)03/05/2021         | Benjamin Eltzner (Univ. of Göttingen) | A Uniqueness Test for M-Estimators | Short follow-up discussion with Prof. Stefan Sommer on his Jan. 22nd talk will take place before this presentation. |
 
 
 Previous Meetings
 -----------------
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
+| 02/05/2021            | Prof. Aasa Feragen (Technical Univ. of Denmark) | Uncertainty quantification in non-Euclidean domains - Follow-Up Discussion | [Abstract](https://shapemi.github.io/keynotes/) [Video](https://drive.google.com/file/d/1sv5XWvtUS_6FIivo6gOwz_xy6ui57UmL/view)  |
 | 01/22/2021         | Prof. Stefan Sommer (Univ. of Copenhagen) | Stochastic Shape analysis and Probabilistic Geometric Statistics  | [Abstract](https://shapemi.github.io/keynotes/) [Video](https://drive.google.com/file/d/1t08-Pl0vAKsjw1M86r-tGdbo_KMhTjju/view) |
 | 01/04/2021            | Free Discussion |      |
 | 12/04/2020             | Martin Hanik (Zuse Institute Berlin)  | Bi-invariant Two-sample Tests in Lie Groups for Shape Analysis - Follow-Up Discussion  | [arXiv](https://arxiv.org/abs/2008.12195)     |
