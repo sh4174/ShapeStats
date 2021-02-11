@@ -5,7 +5,7 @@ Upcoming Meetings
 
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
-| 02/19/2021            | Prof. Aasa Feragen (Technical Univ. of Denmark) | Talks 02/05/2021  |
+| 02/19/2021            | Prof. Aasa Feragen (Technical Univ. of Denmark) |  Uncertainty quantification in non-Euclidean domains - Follow-Up Discussion | Talk 02/05/2021  |
 | (TBD)03/05/2021         | Benjamin Eltzner (Univ. of Göttingen) | A Uniqueness Test for M-Estimators | Short follow-up discussion with Prof. Stefan Sommer on his Jan. 22nd talk will take place before this presentation. |
 
 
