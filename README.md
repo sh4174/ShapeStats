@@ -5,7 +5,7 @@ Upcoming Meetings
 
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
-| (TBD)03/05/2021         | Benjamin Eltzner (Univ. of Göttingen) | A Uniqueness Test for M-Estimators | Short follow-up discussion with Prof. Stefan Sommer on his Jan. 22nd talk will take place before this presentation. |
+| 03/12/2021         | Benjamin Eltzner (Univ. of Göttingen) | A Uniqueness Test for M-Estimators |         |
 
 
 Previous Meetings
