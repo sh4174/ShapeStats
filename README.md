@@ -5,13 +5,14 @@ Upcoming Meetings
 
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
-| 03/12/2021         | Benjamin Eltzner (Univ. of Göttingen) | A Uniqueness Test for M-Estimators |         |
+| (TBD) 03/26/2021         | TBD | TBD |         |
 
 
 Previous Meetings
 -----------------
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
+| 03/12/2021         | Benjamin Eltzner (Univ. of Göttingen) | A Uniqueness Test for M-Estimators |         |
 | 02/19/2021            | Prof. Aasa Feragen (Technical Univ. of Denmark) |  Uncertainty quantification in non-Euclidean domains - Follow-Up Discussion | Talk 02/05/2021  |
 | 02/05/2021            | Prof. Aasa Feragen (Technical Univ. of Denmark) | Uncertainty quantification in non-Euclidean domains - Follow-Up Discussion | [Abstract](https://shapemi.github.io/keynotes/) [Video](https://drive.google.com/file/d/1sv5XWvtUS_6FIivo6gOwz_xy6ui57UmL/view)  |
 | 01/22/2021         | Prof. Stefan Sommer (Univ. of Copenhagen) | Stochastic Shape analysis and Probabilistic Geometric Statistics  | [Abstract](https://shapemi.github.io/keynotes/) [Video](https://drive.google.com/file/d/1t08-Pl0vAKsjw1M86r-tGdbo_KMhTjju/view) |
@@ -29,4 +30,4 @@ Previous Meetings
 
 
 
-Please contact shong20@mgh.harvard.edu if you would like to present your research or add members to our group discussion. 
+Please contact Sungmin Hong (MGH/HMS, shong20@mgh.harvard.edu) if you would like to present your research or add members to our group discussion. 
