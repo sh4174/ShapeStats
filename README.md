@@ -30,4 +30,4 @@ Previous Meetings
 
 
 
-Please contact Sungmin Hong (MGH/HMS, shong20@mgh.harvard.edu) if you would like to present your research or add members to our group discussion. 
+Please contact Sungmin Hong, Ph.D. (MGH/HMS, shong20@mgh.harvard.edu) if you would like to present your research or add members to our group discussion. 
