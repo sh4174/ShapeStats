@@ -5,7 +5,7 @@ Upcoming Meetings
 
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
-| (Tentative) 03/26/2021         | TBD | TBD |         |
+| 03/26/2021         | Mohsen Taheri (Univ. Stavanger) & Prof. Stephen Pizer (UNC) | Fitted Frames to S-Reps | 9 AM EDT/2PM CET due to Daylight Saving Time Change        |
 
 
 Previous Meetings
