@@ -5,7 +5,7 @@ Upcoming Meetings
 
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
-| 04/23/2021         | TBD | TBD |         |
+| 04/23/2021         | Sungmin Hong, Ph.D. (MGH/HMS) | Title Not Disclosed (Currently under double-blind review) |         |
 
 Previous Meetings
 -----------------
