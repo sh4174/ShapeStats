@@ -5,7 +5,7 @@ Upcoming Meetings
 
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
-| 04/23/2021         | Sungmin Hong, Ph.D. (MGH/HMS) | Title Not Disclosed (Currently under double-blind review) |         |
+| 04/23/2021         | Sungmin Hong, Ph.D. (MGH/HMS) | 3DStyleGAN: A Style-Based Generative Adversarial Network for Generative Modeling of 3D Medical Images |         |
 
 Previous Meetings
 -----------------
