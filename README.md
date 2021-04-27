@@ -11,7 +11,7 @@ Previous Meetings
 -----------------
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
-| 04/23/2021         | Sungmin Hong, Ph.D. (MGH/HMS) | 3DStyleGAN: A Style-Based Generative Adversarial Network for Generative Modeling of 3D Medical Images  |         Latent Statistics Discussion |
+| 04/23/2021         | Sungmin Hong, Ph.D. (MGH/HMS) | 3DStyleGAN: A Style-Based Generative Adversarial Network for Generative Modeling of 3D Medical Images  |         Latent Statistics Discussion, [Slides](3DStyleGAN_LatentSpaceStatistics.pdf) |
 | 04/09/2021         | Prof. Stephen Pizer (UNC) | Fitted Frames to S-Reps |         |
 | 03/26/2021         | Mohsen Taheri (Univ. Stavanger) & Prof. Stephen Pizer (UNC) | Fitted Frames to S-Reps |         |
 | 03/12/2021         | Dr. Benjamin Eltzner (Univ. of Göttingen) | A Uniqueness Test for M-Estimators |         |
