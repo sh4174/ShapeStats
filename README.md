@@ -5,12 +5,13 @@ Upcoming Meetings
 
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
-| 06/04/2021         | Free Discussion |    |         |
+| TBD         | (Tentative) Beatriz Paniagua, Ph.D. (Kitware)  |  (Tentative) Geometric Heart Modeling   |         |
 
 Previous Meetings
 -----------------
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
+| 06/04/2021         | Free Discussion |    |         |
 | 05/07/2021         |  Free Discussion |  |         |
 | 04/23/2021         | Sungmin Hong, Ph.D. (MGH/HMS) | 3DStyleGAN: A Style-Based Generative Adversarial Network for Generative Modeling of 3D Medical Images  |         Latent Statistics Discussion, [Slides](3DStyleGAN_LatentSpaceStatistics.pdf), [Code](https://github.com/sh4174/3DStyleGAN) |
 | 04/09/2021         | Prof. Stephen Pizer (UNC) | Fitted Frames to S-Reps |         |
