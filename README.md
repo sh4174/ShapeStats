@@ -5,7 +5,8 @@ Upcoming Meetings
 
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
-| TBD         | (Tentative) Beatriz Paniagua, Ph.D. (Kitware)  |  (Tentative) Geometric Heart Modeling   |         |
+| (Tentative) 07/02/2021         | Jonas Lueg (Huckeman Group, Univ. of Göttingen) |  Improving BHV space: Wald space for phylogenetic forests   |         |
+| TBD        | (Tentative) Beatriz Paniagua, Ph.D. (Kitware)  |  (Tentative) Geometric Heart Modeling   |         |
 
 Previous Meetings
 -----------------
