@@ -7,6 +7,8 @@ Upcoming Meetings
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
 | (Tentative) 07/02/2021         | Jonas Lueg (Huckeman Group, Univ. of Göttingen) |  Improving BHV space: Wald space for phylogenetic forests   |         |
 | TBD        | (Tentative) Beatriz Paniagua, Ph.D. (Kitware)  |  (Tentative) Geometric Heart Modeling   |         |
+| TBD        | (Tentative) Prof. Stephen Marron (UNC) |    TBD, Poly-sphere Torus Space Mapping    |        |
+| TBD        | (Tentative) Prof. Stefan Sommer  (Univ. of Copenhagen) |  TBD, Genetics-Morphology Tree Structures    |      |
 
 Previous Meetings
 -----------------
