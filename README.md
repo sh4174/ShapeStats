@@ -6,6 +6,7 @@ Upcoming Meetings
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
 | 07/09/2021         | Jonas Lueg (Huckeman Group, Univ. of Göttingen) |  Improving BHV space: Wald space for phylogenetic forests   |         |
+| (Tentative) 07/23/2021         | Chun-Hao Yang, Ph.D. (Univ. of Florida) |  Nested Grassmanns for Dimensionality Reduction with Applications to Shape Analysis   |   [Abstract/Talk](http://ipmi2021.org/papers/144/)      |
 | TBD        | (Tentative) Beatriz Paniagua, Ph.D. (Kitware)  |  (Tentative) Geometric Heart Modeling   |         |
 | TBD        | (Tentative) Prof. Stephen Marron (UNC) |    TBD, Poly-sphere Torus Space Mapping    |        |
 | TBD        | (Tentative) Prof. Stefan Sommer  (Univ. of Copenhagen) |  TBD, Genetics-Morphology Tree Structures    |      |
