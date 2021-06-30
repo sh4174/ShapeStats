@@ -6,7 +6,7 @@ Upcoming Meetings
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
 | 07/09/2021         | Jonas Lueg (Huckeman Group, Univ. of Göttingen) |  Improving BHV space: Wald space for phylogenetic forests   |         |
-| (Tentative) 07/23/2021         | Chun-Hao Yang, Ph.D. (Univ. of Florida) |  Nested Grassmanns for Dimensionality Reduction with Applications to Shape Analysis   |   [Abstract/Talk](http://ipmi2021.org/papers/144/)      |
+| (Tentative) 07/23/2021         | Chun-Hao Yang, Ph.D. (Univ. of Florida) |  Nested Grassmanns for Dimensionality Reduction with Applications to Shape Analysis   |   [Abstract/Talk](http://ipmi2021.org/papers/144/), IPMI2021     |
 | (Tentative) 08/06/2021         | Kris Campbell (Univ. of Utah) |  Structural Connectome Atlas Construction in the Space of Riemannian Metrics   |   [Abstract/Talk](http://ipmi2021.org/papers/236/) The Erbsmann Prize Winner (Best paper, IPMI2021)     |
 | TBD        | (Tentative) Beatriz Paniagua, Ph.D. (Kitware)  |  (Tentative) Geometric Heart Modeling   |         |
 | TBD        | (Tentative) Prof. Stephen Marron (UNC) |    TBD, Poly-sphere Torus Space Mapping    |        |
