@@ -5,7 +5,7 @@ Upcoming Meetings
 
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
-| 07/09/2021         | Jonas Lueg (Huckeman Group, Univ. of Göttingen) |  Improving BHV space: Wald space for phylogenetic forests   |         |
+| 07/16/2021         | Jonas Lueg (Huckeman Group, Univ. of Göttingen) |  Improving BHV space: Wald space for phylogenetic forests   |  Follow-Up Discussion     |
 | (Tentative) 07/23/2021         | Chun-Hao Yang, Ph.D. (Univ. of Florida) |  Nested Grassmanns for Dimensionality Reduction with Applications to Shape Analysis   |   [Abstract/Talk](http://ipmi2021.org/papers/144/), IPMI2021     |
 | (Tentative) 08/06/2021         | Kris Campbell (Univ. of Utah) |  Structural Connectome Atlas Construction in the Space of Riemannian Metrics   |   [Abstract/Talk](http://ipmi2021.org/papers/236/) The Erbsmann Prize Winner (Best paper, IPMI2021)     |
 | TBD        | (Tentative) Beatriz Paniagua, Ph.D. (Kitware)  |  (Tentative) Geometric Heart Modeling   |         |
@@ -16,6 +16,7 @@ Previous Meetings
 -----------------
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
+| 07/09/2021         | Jonas Lueg (Huckeman Group, Univ. of Göttingen) |  Improving BHV space: Wald space for phylogenetic forests   |         |
 | 06/04/2021         | Free Discussion |    |         |
 | 05/07/2021         |  Free Discussion |  |         |
 | 04/23/2021         | Sungmin Hong, Ph.D. (MGH/HMS) | 3DStyleGAN: A Style-Based Generative Adversarial Network for Generative Modeling of 3D Medical Images  |         Latent Statistics Discussion, [Slides](3DStyleGAN_LatentSpaceStatistics.pdf), [Code](https://github.com/sh4174/3DStyleGAN) |
