@@ -5,8 +5,7 @@ Upcoming Meetings
 
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
-| 07/30/2021         | Jonas Lueg (Huckeman Group, Univ. of Göttingen) |  Improving BHV space: Wald space for phylogenetic forests   |  Follow-Up Discussion 2     |
-| (Tentative) 08/06/2021         | Chun-Hao Yang, Ph.D. (Univ. of Florida) |  Nested Grassmanns for Dimensionality Reduction with Applications to Shape Analysis   |   [Abstract/Talk](http://ipmi2021.org/papers/144/), IPMI2021     |
+| 08/06/2021         | Chun-Hao Yang, Ph.D. (Univ. of Florida) |  Nested Grassmanns for Dimensionality Reduction with Applications to Shape Analysis   |   [Abstract/Talk](http://ipmi2021.org/papers/144/), IPMI2021     |
 | TBD         | Kris Campbell (Univ. of Utah) |  Structural Connectome Atlas Construction in the Space of Riemannian Metrics   |   [Abstract/Talk](http://ipmi2021.org/papers/236/) The Erbsmann Prize Winner (Best paper, IPMI2021)     |
 | TBD        | Dennis Madsen, Ph.D. (Univ. of Basel)  |  A Probabilistic Surface Registration Framework with Applications to Partial Data Analysis  |         |
 | TBD        | (Tentative) Beatriz Paniagua, Ph.D. (Kitware)  |  (Tentative) Geometric Heart Modeling   |         |
@@ -17,6 +16,7 @@ Previous Meetings
 -----------------
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
+| 07/30/2021         | Jonas Lueg (Huckeman Group, Univ. of Göttingen) |  Improving BHV space: Wald space for phylogenetic forests   |  Follow-Up Discussion 2     |
 | 07/16/2021         | Jonas Lueg (Huckeman Group, Univ. of Göttingen) |  Improving BHV space: Wald space for phylogenetic forests   |  Follow-Up Discussion     |
 | 07/09/2021         | Jonas Lueg (Huckeman Group, Univ. of Göttingen) |  Improving BHV space: Wald space for phylogenetic forests   |         |
 | 06/04/2021         | Free Discussion |    |         |
