@@ -5,7 +5,7 @@ Upcoming Meetings
 
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
-| TBD        | Dennis Madsen, Ph.D. (Univ. of Basel)  |  A Probabilistic Surface Registration Framework with Applications to Partial Data Analysis  |         |
+| 08/20/2021        | Dennis Madsen, Ph.D. (Univ. of Basel)  |  A Probabilistic Surface Registration Framework with Applications to Partial Data Analysis  |         |
 | TBD         | Kris Campbell (Univ. of Utah) |  Structural Connectome Atlas Construction in the Space of Riemannian Metrics   |   [Abstract/Talk](http://ipmi2021.org/papers/236/) The Erbsmann Prize Winner (Best paper, IPMI2021)     |
 | TBD        | (Tentative) Beatriz Paniagua, Ph.D. (Kitware)  |  (Tentative) Geometric Heart Modeling   |         |
 | TBD        | (Tentative) Prof. Stephen Marron (UNC) |    TBD, Poly-sphere Torus Space Mapping    |        |
