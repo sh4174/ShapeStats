@@ -1,4 +1,4 @@
-# International Nonlinear Shape Statistics Discussion Meeting 
+# Int'l Nonlinear Shape Statistics Discussion Meeting 
 
 Upcoming Meetings
 -----------------
