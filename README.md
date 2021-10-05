@@ -15,8 +15,8 @@ Previous Meetings
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
 | 09/24/2021         | Kris Campbell (Univ. of Utah) |  Structural Connectome Atlas Construction in the Space of Riemannian Metrics   |   [Abstract/Talk](http://ipmi2021.org/papers/236/) The Erbsmann Prize Winner (Best paper, IPMI2021)     |
-| 09/03/2021        | Dennis Madsen, Ph.D. (Univ. of Basel)  |  A Probabilistic Surface Registration Framework with Applications to Partial Data Analysis  |  Follow-Up Discussion       |
 | 09/03/2021         | Kris Campbell (Univ. of Utah) |  Structural Connectome Atlas Construction in the Space of Riemannian Metrics   |   [Abstract/Talk](http://ipmi2021.org/papers/236/) The Erbsmann Prize Winner (Best paper, IPMI2021)     |
+| 09/03/2021        | Dennis Madsen, Ph.D. (Univ. of Basel)  |  A Probabilistic Surface Registration Framework with Applications to Partial Data Analysis  |  Follow-Up Discussion       |
 | 08/20/2021        | Dennis Madsen, Ph.D. (Univ. of Basel)  |  A Probabilistic Surface Registration Framework with Applications to Partial Data Analysis  |         |
 | 08/06/2021         | Chun-Hao Yang, Ph.D. (Univ. of Florida) |  Nested Grassmanns for Dimensionality Reduction with Applications to Shape Analysis   |   [Abstract/Talk](http://ipmi2021.org/papers/144/), IPMI2021     |
 | 07/30/2021         | Jonas Lueg (Huckeman Group, Univ. of Göttingen) |  Improving BHV space: Wald space for phylogenetic forests   |  Follow-Up Discussion 2     |
