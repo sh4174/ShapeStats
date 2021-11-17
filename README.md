@@ -5,15 +5,14 @@ Upcoming Meetings
 
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
-| 10/15/2021    | TBD  | TBD   |         |
-| TBD        | (Tentative) Beatriz Paniagua, Ph.D. (Kitware)  |  (Tentative) Geometric Heart Modeling   |         |
-| TBD        | (Tentative) Prof. Stephen Marron (UNC) |    TBD, Poly-sphere Torus Space Mapping    |        |
-| TBD        | (Tentative) Prof. Stefan Sommer  (Univ. of Copenhagen) |  TBD, Genetics-Morphology Tree Structures    |      |
+| 11/19/2021    | Pavlos Zoubouloglou (UNC Chapel Hill)  | Scaled Torus Principal Component Analysis  |     |
 
 Previous Meetings
 -----------------
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
+| 11/12/2021    | Henrik Wiechers (Univ. of Göttingen)  | Learning Torus PCA based classification for multiscale RNA backbone structure correction with application to SARS-CoV-2    |   Follow-up Discussions      |
+| 10/29/2021    | Henrik Wiechers (Univ. of Göttingen)  | Learning Torus PCA based classification for multiscale RNA backbone structure correction with application to SARS-CoV-2    |         |
 | 09/24/2021         | Kris Campbell (Univ. of Utah) |  Structural Connectome Atlas Construction in the Space of Riemannian Metrics   |   [Abstract/Talk](http://ipmi2021.org/papers/236/) The Erbsmann Prize Winner (Best paper, IPMI2021)     |
 | 09/03/2021         | Kris Campbell (Univ. of Utah) |  Structural Connectome Atlas Construction in the Space of Riemannian Metrics   |   [Abstract/Talk](http://ipmi2021.org/papers/236/) The Erbsmann Prize Winner (Best paper, IPMI2021)     |
 | 09/03/2021        | Dennis Madsen, Ph.D. (Univ. of Basel)  |  A Probabilistic Surface Registration Framework with Applications to Partial Data Analysis  |  Follow-Up Discussion       |
