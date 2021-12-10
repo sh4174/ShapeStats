@@ -5,7 +5,7 @@ Upcoming Meetings
 
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
-| TBD    | Mohsen Taheri (Univ. Stavanger)  | TBD  |     |
+| 01/14/2022    | Mohsen Taheri (Univ. Stavanger)  | TBD  |     |
 | (Tentative) 02/04/2022    | Mazdak Abulnaga (MIT CSAIL)  | (Tentative) Volumetric Parameterization of the Placenta to a Flattened Template  |     |
 
 Previous Meetings
