@@ -7,6 +7,7 @@ Upcoming Meetings
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
 | 01/14/2022    | Mohsen Taheri (Univ. Stavanger)  | TBD  |     |
 | (Tentative) 02/04/2022    | Mazdak Abulnaga (MIT CSAIL)  | (Tentative) Volumetric Parameterization of the Placenta to a Flattened Template  |     |
+| TBD    | Beatriz Paniagua (Kitware)  | TBD  |  Cardiac Analysis    |
 
 Previous Meetings
 -----------------
