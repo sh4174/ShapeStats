@@ -6,8 +6,8 @@ Upcoming Meetings
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
 | 01/14/2022    | Mohsen Taheri (Univ. Stavanger)  | Semi Medial Axis By Force Field  |     |
-| (Tentative) 02/04/2022    | Mazdak Abulnaga (MIT CSAIL)  | (Tentative) Volumetric Parameterization of the Placenta to a Flattened Template  |     |
 | TBD    | Beatriz Paniagua (Kitware)  | TBD  | (Tentative) Cardiac Analysis    |
+| (Tentative) 03/04/2022    | Mazdak Abulnaga (MIT CSAIL)  | (Tentative) Volumetric Parameterization of the Placenta to a Flattened Template  |     |
 
 Previous Meetings
 -----------------
