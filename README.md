@@ -5,14 +5,14 @@ Upcoming Meetings
 
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
-| 01/14/2022    | Mohsen Taheri (Univ. Stavanger)  | Semi Medial Axis By Force Field  |     |
-| TBD    | Beatriz Paniagua (Kitware)  | TBD  | (Tentative) Cardiac Analysis    |
+| 01/28/2022    | Beatriz Paniagua (Kitware)  | Statistical Shape Analysis for the Hypoplastic Left Heart Syndrome  |    |
 | (Tentative) 03/11/2022    | Mazdak Abulnaga (MIT CSAIL)  | (Tentative) Volumetric Parameterization of the Placenta to a Flattened Template  |     |
 
 Previous Meetings
 -----------------
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
+| 01/14/2022    | Mohsen Taheri (Univ. Stavanger)  | Semi Medial Axis By Force Field  |     |
 | 11/19/2021    | Pavlos Zoubouloglou (UNC Chapel Hill)  | Scaled Torus Principal Component Analysis  |     |
 | 11/12/2021    | Henrik Wiechers (Univ. of Göttingen)  | Learning Torus PCA based classification for multiscale RNA backbone structure correction with application to SARS-CoV-2    |   Follow-up Discussions      |
 | 10/29/2021    | Henrik Wiechers (Univ. of Göttingen)  | Learning Torus PCA based classification for multiscale RNA backbone structure correction with application to SARS-CoV-2    |         |
