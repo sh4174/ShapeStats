@@ -5,7 +5,7 @@ Upcoming Meetings
 
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
-| (Tentative) 03/11/2022    | Mazdak Abulnaga (MIT CSAIL)  | (Tentative) Volumetric Parameterization of the Placenta to a Flattened Template  |     |
+| (Tentative) 03/18/2022    | Mazdak Abulnaga (MIT CSAIL)  | (Tentative) Volumetric Parameterization of the Placenta to a Flattened Template  |     |
 
 Previous Meetings
 -----------------
