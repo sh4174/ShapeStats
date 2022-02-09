@@ -5,7 +5,7 @@ Upcoming Meetings
 
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
-| 02/11/2022    | Sungmin Hong (MGH/HMS)  | Hypernet-Ensemble Learning of Segmentation Probability for Medical Image Segmentation with Ambiguous Labels | [Paper](https://arxiv.org/abs/2112.06693) [Code](https://github.com/sh4174/HypernetEnsemble) |
+| 02/11/2022    | Sungmin Hong (MGH/HMS)  | Hypernet-Ensemble Learning of Segmentation Probability for Medical Image Segmentation with Ambiguous Labels | [Paper](https://arxiv.org/abs/2112.06693), [Code](https://github.com/sh4174/HypernetEnsemble) |
 | (Tentative) 03/18/2022    | Mazdak Abulnaga (MIT CSAIL)  | (Tentative) Volumetric Parameterization of the Placenta to a Flattened Template  |     |
 
 Previous Meetings
