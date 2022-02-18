@@ -5,13 +5,13 @@ Upcoming Meetings
 
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
-| 02/11/2022    | Sungmin Hong (MGH/HMS)  | Hypernet-Ensemble Learning of Segmentation Probability for Medical Image Segmentation with Ambiguous Labels | [[Paper]](https://arxiv.org/abs/2112.06693)   [[Code]](https://github.com/sh4174/HypernetEnsemble) |
 | (Tentative) 03/18/2022    | Mazdak Abulnaga (MIT CSAIL)  | (Tentative) Volumetric Parameterization of the Placenta to a Flattened Template  |     |
 
 Previous Meetings
 -----------------
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
+| 02/11/2022    | Sungmin Hong (MGH/HMS)  | Hypernet-Ensemble Learning of Segmentation Probability for Medical Image Segmentation with Ambiguous Labels | [[Paper]](https://arxiv.org/abs/2112.06693)   [[Code]](https://github.com/sh4174/HypernetEnsemble) |
 | 01/28/2022    | Beatriz Paniagua (Kitware)  | Statistical Shape Analysis for the Hypoplastic Left Heart Syndrome  |    |
 | 01/14/2022    | Mohsen Taheri (Univ. Stavanger)  | Semi Medial Axis By Force Field  |     |
 | 11/19/2021    | Pavlos Zoubouloglou (UNC Chapel Hill)  | Scaled Torus Principal Component Analysis  |     |
