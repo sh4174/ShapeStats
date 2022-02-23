@@ -46,6 +46,3 @@ Previous Meetings
 | 08/07/2020             | Prof. Stefan Sommer (Univ. of Copenhagen)   | Horizontal Flows and Manifold Statistics in Geometric Deep Learning |[Slides](https://slides.com/stefansommer/horizontal-flows-manifold-stochastics-geometric-deep-learning)|
 
 
-
-
-Please contact Sungmin Hong, Ph.D. (MGH/HMS, shong20@mgh.harvard.edu) if you would like to present your research or add members to our group discussion. 
