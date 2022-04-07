@@ -5,12 +5,13 @@ Upcoming Meetings
 
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
-| 03/18/2022    | Mazdak Abulnaga (MIT CSAIL)  | Volumetric Parameterization of the Placenta to a Flattened Template  |  [[Paper (arXiv)]](https://arxiv.org/abs/2111.07900) [[Paper (journal)]](https://ieeexplore.ieee.org/abstract/document/9617616) [[Code]](https://github.com/mabulnaga/placenta-flattening)   |
+| 04/08/2022    | Lars Lammers (Univ. of Göttingen)  |  The Degrees of Stickiness on Stratified Spaces  |    |
 
 Previous Meetings
 -----------------
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
+| 03/18/2022    | Mazdak Abulnaga (MIT CSAIL)  | Volumetric Parameterization of the Placenta to a Flattened Template  |  [[Paper (arXiv)]](https://arxiv.org/abs/2111.07900) [[Paper (journal)]](https://ieeexplore.ieee.org/abstract/document/9617616) [[Code]](https://github.com/mabulnaga/placenta-flattening)   |
 | 02/11/2022    | Sungmin Hong (MGH/HMS)  | Hypernet-Ensemble Learning of Segmentation Probability for Medical Image Segmentation with Ambiguous Labels | [[Paper]](https://arxiv.org/abs/2112.06693)   [[Code]](https://github.com/sh4174/HypernetEnsemble) |
 | 01/28/2022    | Beatriz Paniagua (Kitware)  | Statistical Shape Analysis for the Hypoplastic Left Heart Syndrome  |    |
 | 01/14/2022    | Mohsen Taheri (Univ. Stavanger)  | Semi Medial Axis By Force Field  |     |
