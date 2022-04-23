@@ -5,12 +5,14 @@ Upcoming Meetings
 
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
-| 04/08/2022    | Lars Lammers (Univ. of Göttingen)  |  The Degrees of Stickiness on Stratified Spaces  |    |
+| 05/06/2022    | Binglin Li (UNC Chapel Hill)  |  TBA  |    |
 
 Previous Meetings
 -----------------
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
+| 04/22/2022    | Akash Krishna (UNC Chapel Hill)  |  The Geometric Relationship of Adjacent Objects in Multi-object Shape Analysis  |    |
+| 04/08/2022    | Lars Lammers (Univ. of Göttingen)  |  The Degrees of Stickiness on Stratified Spaces  |    |
 | 03/18/2022    | Mazdak Abulnaga (MIT CSAIL)  | Volumetric Parameterization of the Placenta to a Flattened Template  |  [[Paper (arXiv)]](https://arxiv.org/abs/2111.07900) [[Paper (journal)]](https://ieeexplore.ieee.org/abstract/document/9617616) [[Code]](https://github.com/mabulnaga/placenta-flattening)   |
 | 02/11/2022    | Sungmin Hong (MGH/HMS)  | Hypernet-Ensemble Learning of Segmentation Probability for Medical Image Segmentation with Ambiguous Labels | [[Paper]](https://arxiv.org/abs/2112.06693)   [[Code]](https://github.com/sh4174/HypernetEnsemble) |
 | 01/28/2022    | Beatriz Paniagua (Kitware)  | Statistical Shape Analysis for the Hypoplastic Left Heart Syndrome  |    |
