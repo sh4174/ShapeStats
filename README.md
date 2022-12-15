@@ -5,12 +5,16 @@ Upcoming Meetings
 
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
-| 05/06/2022    | Binglin Li (UNC Chapel Hill)  |  TBA  |    |
+| 12/16/2022    | James Fishbaugh, Ye Han (Kitware Inc.)  |  Hierarchical Geodesic Polynomial Model for Multilevel Analysis of Longitudinal Shape  |    |
+| 01/??/2023    | TBA  |  TBA  |    |
 
 Previous Meetings
 -----------------
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
+| 10/21/2022    | Mohsen Taheri (Univ. Stavanger)  |  Fitting locally parameterized discrete skeletal representation by dimensionality reduction  |    |
+| 05/20/2022    | Binglin Li (UNC Chapel Hill)  |  Geometric Techniques in Compositional Data Analysis II  |    |
+| 05/06/2022    | Binglin Li (UNC Chapel Hill)  |  Geometric Techniques in Compositional Data Analysis I  |    |
 | 04/22/2022    | Akash Krishna (UNC Chapel Hill)  |  The Geometric Relationship of Adjacent Objects in Multi-object Shape Analysis  |    |
 | 04/08/2022    | Lars Lammers (Univ. of Göttingen)  |  The Degrees of Stickiness on Stratified Spaces  |    |
 | 03/18/2022    | Mazdak Abulnaga (MIT CSAIL)  | Volumetric Parameterization of the Placenta to a Flattened Template  |  [[Paper (arXiv)]](https://arxiv.org/abs/2111.07900) [[Paper (journal)]](https://ieeexplore.ieee.org/abstract/document/9617616) [[Code]](https://github.com/mabulnaga/placenta-flattening)   |
