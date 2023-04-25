@@ -5,13 +5,17 @@ Upcoming Meetings
 
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
-| 12/16/2022    | James Fishbaugh, Ye Han (Kitware Inc.)  |  Hierarchical Geodesic Polynomial Model for Multilevel Analysis of Longitudinal Shape  |    |
-| 01/??/2023    | TBA  |  TBA  |    |
+| 04/??/2023    | TBA  |  TBA  |    |
+| 04/??/2023    | TBA  |  TBA  |    |
 
 Previous Meetings
 -----------------
 | Date                   | Presenter                                   | Title                                                               | Remark |
 |------------------------|---------------------------------------------|---------------------------------------------------------------------|--------|
+| 03/24/2023    | Andrew McCormack (Duke Univ.)  |  The Stein Effect for Frechet Means -- Part 2  |    |
+| 02/17/2023    | Andrew McCormack (Duke Univ.)  |  The Stein Effect for Frechet Means  |    |
+| 01/20/2023    | Benjamin Eltzner (MPI NAT, Goettingen)  |  Diffusion Means Interpolating Between Intrinsic and Extrinsic Means  |    |
+| 12/16/2022    | James Fishbaugh, Ye Han (Kitware)  |  Hierarchical Geodesic Polynomial Model for Multilevel Analysis of Longitudinal Shape  |    |
 | 10/21/2022    | Mohsen Taheri (Univ. Stavanger)  |  Fitting locally parameterized discrete skeletal representation by dimensionality reduction  |    |
 | 05/20/2022    | Binglin Li (UNC Chapel Hill)  |  Geometric Techniques in Compositional Data Analysis II  |    |
 | 05/06/2022    | Binglin Li (UNC Chapel Hill)  |  Geometric Techniques in Compositional Data Analysis I  |    |
